@@ -16,5 +16,5 @@ If you have any questions, comments, or issues with this project, please feel fr
 [Twitter](https://twitter.com)<br>
 [Facebook](https://www.facebook.com)<br>
 [LinkedIn](https://www.linkedin.com)<br>
-[Instagram](https://www.instagram.com<br>
+[Instagram](https://www.instagram.com)<br>
 We would love to hear from you and help you out with any problems you encounter.<br>
