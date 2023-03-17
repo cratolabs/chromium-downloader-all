@@ -10,7 +10,7 @@ This project is licensed under the terms of the [GNU General Public License v3.0
 ## Contributing
 Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 ## Credits
-This project was created by Crato inspired by [chromium-latest-linux](https://github.com/scheib/chromium-latest-linux). There are no Official Youtube , Instagram , etc. accounts yet. I will update here.
+This project was created by [Crato](https://github.com/cratolabs) inspired by [chromium-latest-linux](https://github.com/scheib/chromium-latest-linux). There are no Official Youtube , Instagram , etc. accounts yet. I will update here.
 ## Support
 If you have any questions, comments, or issues with this project, please feel free to reach out to us on social media:<br>
 [Twitter](https://twitter.com)<br>
